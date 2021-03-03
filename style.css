@@ -1,0 +1,56 @@
+
+body{
+    background-color: lightskyblue;
+}
+
+@font-face{
+    font-family: DotGothic16;
+    src: url(fonts/DotGothic16-Regular.ttf);
+}
+
+h1{
+    font-family: DotGothic16;
+    text-align: center;
+    color: goldenrod;
+}
+
+img{
+    height: 100px;
+    width: 180px;
+}
+
+section.alicante{
+    background-color: crimson;
+}
+
+div.alicante{
+    position: relative;
+    left: 500px;
+}
+
+section.valencia{
+    background-color: goldenrod;
+}
+
+div.valencia{
+    text-align: center;
+}
+
+section.castellon{
+    background-color: hotpink;
+}
+
+div.castellon{
+    
+    position: relative;
+    left: 1000px;
+}
+
+footer{
+    text-align: center;
+    background-color: white;
+}
+
+span{
+    color: red;
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: lightskyblue;
+}
+
+@font-face{
+    font-family: DotGothic16;
+    src: url(fonts/DotGothic16-Regular.ttf);
+}
+
+h1{
+    font-family: DotGothic16;
+    text-align: center;
+    color: goldenrod;
+}
+
+section.blanco{
+    color: blue;
+    background-color: white;
+}
+
+section.coral{
+    background-color: coral;
+}
+
+input.largo{
+    width: 250px;
+}
+
+aside{
+    background-color: blue;
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: white;
+}
+
+span{
+    color: red;
+}
